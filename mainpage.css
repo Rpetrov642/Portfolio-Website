@@ -19,7 +19,7 @@ header {
 
 header div a {
     text-decoration: none;
-    color: mediumspringgreen;
+    color: rgb(9, 184, 9);
 }
 
 header div {
@@ -80,13 +80,13 @@ header nav ul li a {
     border-radius: 15px;
     width: 150px;
     height: auto;
-    border-color: mediumspringgreen;
+    border-color: rgb(9, 184, 9);
     margin-top: 15px;
 }
 #button:hover {
     cursor: pointer;
     background-color: black;
-    color: mediumspringgreen;
+    color: rgb(9, 184, 9);
     border-color: white;
 } 
 .listing {
@@ -97,7 +97,7 @@ header nav ul li a {
 
 
 .listing h3 {
-    color: rgb(176, 238, 176);
+    color: rgb(51, 199, 51);
 }
 #label {
     display: flex;
@@ -147,7 +147,7 @@ textarea {
     border-radius: 15px;
     width: 150px;
     height: auto;
-    border-color: mediumspringgreen;
+    border-color: rgb(9, 184, 9);
     margin-left: 27%;
     margin-right: 27%;
     margin-top: 15px;
@@ -155,7 +155,7 @@ textarea {
 #Send:hover {
     cursor: pointer;
     background-color: black;
-    color: mediumspringgreen;
+    color: rgb(9, 184, 9);
     border-color: white;
 
 }
@@ -178,4 +178,10 @@ label {
 }
 .infomain p {
     font-size: 22p;
+}
+input {
+    background-color: lightgray;
+}
+textarea {
+    background-color: lightgray;
 }
